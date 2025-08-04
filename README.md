@@ -12,3 +12,7 @@ Content-Type: application/json
 ```
 
 Supported languages: text, java, c, cpp, python, typescript, javascript.
+
+---
+
+Forked to add containerization support for use with the [Edgar Plag In](https://gitlab.com/edgar-group/private/edgar-plag-in) project.
